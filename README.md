@@ -3,9 +3,9 @@ Bitcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+https://ASICKcoin.com
 
-What is Bitcoin?
+What is ASICKcoin?
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
