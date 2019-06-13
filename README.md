@@ -1,7 +1,7 @@
 ASICKcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/VoskCoin/bitcoin.svg?branch=master)](https://travis-ci.org/VoskCoin/bitcoin)
+[![Build Status](https://travis-ci.org/VoskCoin/asickcoin.svg?branch=master)](https://travis-ci.org/VoskCoin/asickcoin)
 
 https://ASICKcoin.com
 
@@ -28,7 +28,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/voskcoin/bitcoin/tags) are created
+completely stable. [Tags](https://github.com/voskcoin/asickcoin/tags) are created
 regularly to indicate new official, stable release versions of ASICKcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
