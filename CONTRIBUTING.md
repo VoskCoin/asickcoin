@@ -1,4 +1,4 @@
-Contributing to Bitcoin Core
+Contributing to ASICKcoin Core
 ============================
 
 The ASICKcoin Core project operates an open contributor model where anyone is
@@ -27,12 +27,6 @@ VoskCoin Discord server. It's an always growing and ever active cryptocurrency s
 
 Discussion about code base improvements happens in GitHub issues and on pull
 requests.
-
-The developer
-[mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-should be used to discuss complicated or controversial changes before working on
-a patch set.
-
 
 Contributor Workflow
 --------------------
@@ -78,12 +72,12 @@ the pull request affects. Valid areas as:
 
   - *Consensus* for changes to consensus critical code
   - *Docs* for changes to the documentation
-  - *Qt* for changes to bitcoin-qt
+  - *Qt* for changes to asickcoin-qt
   - *Mining* for changes to the mining code
   - *Net* or *P2P* for changes to the peer-to-peer network code
   - *RPC/REST/ZMQ* for changes to the RPC, REST or ZMQ APIs
   - *Scripts and tools* for changes to the scripts and tools
-  - *Tests* for changes to the bitcoin unit tests or QA tests
+  - *Tests* for changes to the asickcoin unit tests or QA tests
   - *Trivial* should **only** be used for PRs that do not change generated
     executable code. Notably, refactors (change of function arguments and code
     reorganization) and changes in behavior should **not** be marked as trivial.
@@ -97,14 +91,10 @@ the pull request affects. Valid areas as:
 
 Examples:
 
-    Consensus: Add new opcode for BIP-XXXX OP_CHECKAWESOMESIG
+    Consensus: Add new opcode for AIP-XXXX OP_CHECKAWESOMESIG
     Net: Automatically create hidden service, listen on Tor
     Qt: Add feed bump button
     Trivial: Fix typo in init.cpp
-
-Note that translations should not be submitted as pull requests, please see
-[Translation Process](https://github.com/bitcoin/bitcoin/blob/master/doc/translation_process.md) 
-for more information on helping with translations.
 
 If a pull request is not to be considered for merging (yet), please
 prefix the title with [WIP] or use [Tasks Lists](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists)
