@@ -1,7 +1,7 @@
 Contributing to Bitcoin Core
 ============================
 
-The Bitcoin Core project operates an open contributor model where anyone is
+The ASICKcoin Core project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -15,18 +15,15 @@ merging pull requests as well as a "lead maintainer" who is responsible for the
 release cycle, overall merging, moderation and appointment of maintainers.
 
 If you're looking for somewhere to start contributing, check out the
-[good first issue](https://github.com/bitcoin/bitcoin/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+[good first issue](https://github.com/voskcoin/bitcoin/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 list.
 
 Communication Channels
 ----------------------
 
-Most communication about Bitcoin Core development happens on IRC, in the
-#bitcoin-core-dev channel on Freenode. The easiest way to participate on IRC is
-with the web client, [webchat.freenode.net](https://webchat.freenode.net/). Chat
-history logs can be found
-on [http://www.erisian.com.au/bitcoin-core-dev/](http://www.erisian.com.au/bitcoin-core-dev/)
-and [http://gnusha.org/bitcoin-core-dev/](http://gnusha.org/bitcoin-core-dev/).
+Most communication about ASICKcoin Core development happens on Discord, in the
+VoskCoin Discord server. It's an always growing and ever active cryptocurrency server.
+[Join the ASICKcoin discussion by following this link.](https://discord.gg/Gs87dfr) 
 
 Discussion about code base improvements happens in GitHub issues and on pull
 requests.
