@@ -1,7 +1,7 @@
 ASICKcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+[![Build Status](https://travis-ci.org/VoskCoin/bitcoin.svg?branch=master)](https://travis-ci.org/VoskCoin/bitcoin)
 
 https://ASICKcoin.com
 
@@ -15,7 +15,7 @@ out collectively by the network. ASICKcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://youtube.com/voskcoin/, or read the
+the ASICKcoin Core software, see https://youtube.com/voskcoin/, or read the
 [original whitepaper](https://ASICKcoin.com/whitepaper).
 
 License
@@ -28,8 +28,8 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
+completely stable. [Tags](https://github.com/voskcoin/bitcoin/tags) are created
+regularly to indicate new official, stable release versions of ASICKcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
